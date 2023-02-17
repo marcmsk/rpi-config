@@ -1,0 +1,14 @@
+{
+  "websupport": {
+    "authentication": {
+      "identifier": "a3b38092-3d7a-4d55-95ff-e2023420f88e",
+      "secret_key": "f4d23798d6a4db9fa9376401ed469ab7cbf80279"
+    },
+    "registered_domain": "marcm.sk",
+    "subdomains": [
+      "rpi",
+      "jelly"
+    ],
+    "ddns_id": "01"
+  }
+}
