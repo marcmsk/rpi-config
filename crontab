@@ -1,1 +1,2 @@
 0 */2 * * * /home/marc/tool/websupportsk-ddns/run-sync
+*/45 * * * * /home/marc/script/webserver-chck.sh
