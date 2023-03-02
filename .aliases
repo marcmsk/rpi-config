@@ -1,4 +1,5 @@
 alias sudo="sudo "
-alias ll="ls -lth"
-alias lla="ls -lath"
+alias ll="ls -lh"
+alias lla="ls -lah"
+alias llt="ls -laht"
 alias hist="history | cut -c 8-"
